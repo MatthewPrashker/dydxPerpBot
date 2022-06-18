@@ -1,0 +1,16 @@
+{
+  "name": "dydxPerpBot",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/MatthewPrashker/dydxPerpBot.git",
+  "author": "MatthewPrashker <prashker.m@northeastern.edu>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@dydxprotocol/v3-client": "^1.9.1",
+    "add": "^2.0.6",
+    "ts-node": "^10.8.1",
+    "web3": "^1.7.3",
+    "yarn": "^1.22.19"
+  }
+}
